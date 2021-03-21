@@ -1,4 +1,4 @@
-# Project
+# Project - Sistem informatic distribuit pentru administrarea proiectelor studenților
 Sistemul informatic va permite studentilor sa-si transmita on-line proiectele catre profesori
 (facilitatea upload) si profesorilor sa ii evalueze. Sistemul informatic cuprinde o interfata cu
 utilizatorul (navigator Web sau aplicatie dedicata), un server de baze de date care va stoca
